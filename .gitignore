@@ -6847,3 +6847,4 @@ __pycache__/NER_Model.cpython-310.pyc
 .venv/Scripts/pythonw.exe
 .venv/Scripts/spacy.exe
 .venv/Scripts/tqdm.exe
+__pycache__/wsgi.cpython-310.pyc
